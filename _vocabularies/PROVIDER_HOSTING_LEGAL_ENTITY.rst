@@ -8,6 +8,7 @@ ID                                                                    Name      
 ====================================================================  ==========================================================================================================================  =============
 provider_hosting_legal_entity-100pit                                  100 Percent IT
 provider_hosting_legal_entity-acccaghust                              ACC Cyfronet AGH-UST
+provider_hosting_legal_entity-acdh-ch                                 Austrian Centre for Digital Humanities and Cultural Heritage
 provider_hosting_legal_entity-acdhch                                  Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)
 provider_hosting_legal_entity-agpe-rgrj                               AGPE The Royal Gondwana Research of History, Science, Economic, Political and Social Science
 provider_hosting_legal_entity-al                                      Arkivum Limited
@@ -18,6 +19,7 @@ provider_hosting_legal_entity-arkivum                                 Arkivum Li
 provider_hosting_legal_entity-asgcc                                   Academia Sinica Grid Computing Centre
 provider_hosting_legal_entity-athena                                  Athena Research and Innovation Center in Information and Communication Technologies
 provider_hosting_legal_entity-awi_bremerhaven                         Alfred Wegener Institute for Polar and Marine Research in cooperation with MARUM, Center for Marine Environmental Sciences
+provider_hosting_legal_entity-bbmri-eric                              Biobanking and BioMolecular resources Research Infrastructure – European Research Infrastructure Consortium
 provider_hosting_legal_entity-bcsl                                    Bineo Consulting SL
 provider_hosting_legal_entity-bcuu                                    Bijvoet Centre - Utrecht University
 provider_hosting_legal_entity-beia                                    BEIA CONSULT INTERNATIONAL
@@ -67,9 +69,11 @@ provider_hosting_legal_entity-cscs                                    Swiss Nati
 provider_hosting_legal_entity-csg                                     CS GROUP
 provider_hosting_legal_entity-csic                                    Consejo Superior de Investigaciones Científicas (CSIC)
 provider_hosting_legal_entity-csip                                    Consorzio per il Sistema Informativo (CSI Piemonte)
+provider_hosting_legal_entity-csuc                                    Consorci de Serveis Universitaris de Catalunya
 provider_hosting_legal_entity-cu                                      Charles University
 provider_hosting_legal_entity-cybcebbruc                              CY-Biobank Center of Excellence in Biobanking and Biomedical Research - University of Cyprus
 provider_hosting_legal_entity-cyberbotics                             Cyberbotics
+provider_hosting_legal_entity-cyi                                     The Cyprus Institute
 provider_hosting_legal_entity-czm                                     Carl Zeiss Microscopy
 provider_hosting_legal_entity-dal                                     DynAikon Limited
 provider_hosting_legal_entity-dariah_eric                             DARIAH ERIC (Digital Research Infrastructure for the Arts and Humanities)
@@ -109,16 +113,19 @@ provider_hosting_legal_entity-eosc.incd                               National D
 provider_hosting_legal_entity-eosc.psi                                Paul Scherrer Institute
 provider_hosting_legal_entity-eosc.ubora                              UBORA association
 provider_hosting_legal_entity-eoxitsgmbh                              EOX IT Services GmbH
+provider_hosting_legal_entity-epos                                    European Plate Observing System
 provider_hosting_legal_entity-epot                                    EPOT
 provider_hosting_legal_entity-er                                      Eurac Research
 provider_hosting_legal_entity-esrf                                    European Synchrotron Radiation Facility (ESRF)
 provider_hosting_legal_entity-esseric                                 European Social Survey, European Research Infrastructure Consortium
 provider_hosting_legal_entity-essoeric                                European Spallation Source ERIC
 provider_hosting_legal_entity-eudat                                   EUDAT
+provider_hosting_legal_entity-euro-bioimaging                         Euro-BioImaging
 provider_hosting_legal_entity-exoscale                                EXOSCALE
 provider_hosting_legal_entity-expertai                                expert.ai
 provider_hosting_legal_entity-f6sn                                    F6S Network
 provider_hosting_legal_entity-fairdi                                  FAIR Data Infrastructure for Physics, Chemistry, Materials Science, and Astronomy (FAIR-DI)
+provider_hosting_legal_entity-fcub                                    University of Belgrade - Faculty of Chemistry
 provider_hosting_legal_entity-figshare                                Figshare
 provider_hosting_legal_entity-fnsp                                    Fondation Nationale des Sciences Politiques (Sciences Po)
 provider_hosting_legal_entity-forth                                   Foundation for Research and Technology, Hellas (FORTH)
@@ -140,6 +147,7 @@ provider_hosting_legal_entity-hostkeybv                               HOSTKEY B.
 provider_hosting_legal_entity-hzdr                                    Helmholtz-Zentrum Dresden-Rossendorf e.V. (HZDR)
 provider_hosting_legal_entity-iagos                                   In-service Aircraft for a Global Observing System AISBL
 provider_hosting_legal_entity-iasa                                    Institute of Accelerating Systems and Applications (IASA)
+provider_hosting_legal_entity-iasa_of_nasu                            Institute for Applied System Analysis of the National Academy of Sciences of Ukraine
 provider_hosting_legal_entity-ibceb                                   Ivane Beritashvili Center of Experimental Biomedicine
 provider_hosting_legal_entity-ibiomcnr                                Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies, National Research Council (IBIOM-CNR)
 provider_hosting_legal_entity-icoseric                                Integrated Carbon Observation System European Research Infrastructure Consortium (ICOS ERIC)
@@ -148,6 +156,7 @@ provider_hosting_legal_entity-ideaconsult                             IDEAconsul
 provider_hosting_legal_entity-ieric                                   Instruct-ERIC
 provider_hosting_legal_entity-ifinhh                                  Horia Hulubei National Institute for R&D in Physics and Nuclear Engineering (IFIN-HH)
 provider_hosting_legal_entity-ifnios                                  Ifremer, the French National Institute for Ocean Science
+provider_hosting_legal_entity-ifremer                                 Ifremer, the French National Institute for Ocean Science
 provider_hosting_legal_entity-iict                                    Institute of Information and Communication Technologies (IICT)
 provider_hosting_legal_entity-iisas                                   Institute of Informatics - Slovak Academy of Sciences (IISAS)
 provider_hosting_legal_entity-ill                                     Institut Laue Langevin (ILL)
@@ -160,6 +169,7 @@ provider_hosting_legal_entity-instruct-eric                           Instruct-E
 provider_hosting_legal_entity-ipsl                                    Institut Pierre-Simon Laplace
 provider_hosting_legal_entity-isaul                                   Instituto Superior de Agronomia da Universidade de Lisboa
 provider_hosting_legal_entity-isti                                    Institute for Information Science and Technologies 'Alessandro Faedo' - ISTI
+provider_hosting_legal_entity-it4i_vsb-tuo                            VSB – Technical University of Ostrava, IT4Innovations National Supercomputing Center
 provider_hosting_legal_entity-jelastic                                Jelastic
 provider_hosting_legal_entity-jsc                                     Jülich Supercomputing Centre (JSC)
 provider_hosting_legal_entity-jsc-de                                  Jülich Supercomputing Centre
@@ -171,6 +181,7 @@ provider_hosting_legal_entity-lab1100                                 LAB1100
 provider_hosting_legal_entity-lapp                                    Laboratoire d'Annecy de Physique des Particules
 provider_hosting_legal_entity-leaena                                  National Technical Univerisity of Athens
 provider_hosting_legal_entity-libnovasl                               LIBNOVA SL
+provider_hosting_legal_entity-lifewatch-eric                          LifeWatch ERIC
 provider_hosting_legal_entity-lifewatcheric                           LifeWatch ERIC
 provider_hosting_legal_entity-lnec                                    Laboratório Nacional de Engenharia Civil (LNEC)
 provider_hosting_legal_entity-lsd-ufcg                                Laboratório de Sistemas Distribuídos - Universidade Federal de Campina Grande
@@ -178,6 +189,7 @@ provider_hosting_legal_entity-lsdufcg                                 Laboratór
 provider_hosting_legal_entity-lu                                      Lund University
 provider_hosting_legal_entity-mandati                                 Mandat International
 provider_hosting_legal_entity-meeo                                    Meteorological Environmental Earth Observation (MEEO)
+provider_hosting_legal_entity-mi                                      Mandat International
 provider_hosting_legal_entity-mobile_observation_integration_service  Pocket Science (DDQ B.V.)
 provider_hosting_legal_entity-msw                                     MyScienceWork
 provider_hosting_legal_entity-mundi_web_services                      Mundi Web Services
@@ -201,6 +213,7 @@ provider_hosting_legal_entity-prace                                   Partnershi
 provider_hosting_legal_entity-psi                                     Paul Scherrer Institute (PSI)
 provider_hosting_legal_entity-psnc                                    Poznan Supercomputing and Networking Center (PSNC)
 provider_hosting_legal_entity-rasdaman                                RASDAMAN
+provider_hosting_legal_entity-rb                                      Reportbrain Limited
 provider_hosting_legal_entity-rbi                                     Ruđer Bošković Institute
 provider_hosting_legal_entity-readcoop                                READ-COOP SCE
 provider_hosting_legal_entity-rli                                     Reiner Lemoine Institute
@@ -208,6 +221,7 @@ provider_hosting_legal_entity-rsu                                     Riga Strad
 provider_hosting_legal_entity-scipedia                                SCIPEDIA
 provider_hosting_legal_entity-sdgmbh                                  Secure Dimensions GmbH
 provider_hosting_legal_entity-seadatanet                              SeaDataNet
+provider_hosting_legal_entity-sethsoftware                            Seth Software spółka z ograniczoną odpowiedzialnością
 provider_hosting_legal_entity-sinergise                               Sinergise
 provider_hosting_legal_entity-sios                                    The Svalbard Integrated Arctic Earth Observing System
 provider_hosting_legal_entity-sirisasl                                SIRIS Academic SL
@@ -244,6 +258,7 @@ provider_hosting_legal_entity-umg                                     University
 provider_hosting_legal_entity-unifl                                   University of Florence, DISIT lab
 provider_hosting_legal_entity-unige                                   University of Geneva, Department of Astronomy
 provider_hosting_legal_entity-unitartu                                University of Tartu
+provider_hosting_legal_entity-university_of_sussex                    The University of Sussex
 provider_hosting_legal_entity-uo                                      University of Oulu
 provider_hosting_legal_entity-uob-rcub                                University of Belgrade Computer Centre
 provider_hosting_legal_entity-uof                                     University of Freiburg
@@ -258,4 +273,5 @@ provider_hosting_legal_entity-vib                                     VIB
 provider_hosting_legal_entity-vito                                    VITO NV  (Vlaamse Instelling voor Technologisch Onderzoek NV)
 provider_hosting_legal_entity-vliz                                    Flanders Marine Institute
 provider_hosting_legal_entity-vu                                      Vilnius University
+provider_hosting_legal_entity-zpid                                    Leibniz Institute for Psychology
 ====================================================================  ==========================================================================================================================  =============

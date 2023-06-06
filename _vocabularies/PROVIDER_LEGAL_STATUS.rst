@@ -7,6 +7,7 @@ PROVIDER LEGAL STATUS
 ID                                                                                  Name                                                          Description
 ==================================================================================  ============================================================  =============
 provider_legal_status-association                                                   Association
+provider_legal_status-charity                                                       Exempt charity under the Charities Act 2011
 provider_legal_status-consortium                                                    Consortium
 provider_legal_status-corporation                                                   Corporation
 provider_legal_status-european_economic_interest_grouping                           European Economic Interest Grouping (EEIG)

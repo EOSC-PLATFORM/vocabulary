@@ -1,10 +1,13 @@
 .. _geographic_location:
 
-GEOGRAPHIC LOCATION
+Geographic location
 ===================
 
-===================  ===================  =========================
-ID                   Name                 Description
-===================  ===================  =========================
-geographic_lcoation  Geographic Location  All Regions and Countries
-===================  ===================  =========================
+.. table::
+   :class: datatable
+
+   ===================  =========================  ===================  ==========
+   Name                 Description                ID                   ParentID
+   ===================  =========================  ===================  ==========
+   Geographic Location  All Regions and Countries  geographic_lcoation
+   ===================  =========================  ===================  ==========

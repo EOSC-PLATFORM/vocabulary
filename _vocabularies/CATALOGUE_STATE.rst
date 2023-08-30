@@ -1,12 +1,15 @@
 .. _catalogue_state:
 
-CATALOGUE STATE
+Catalogue state
 ===============
 
-==================  ==================  ==================
-ID                  Name                Description
-==================  ==================  ==================
-approved catalogue  Approved Catalogue  Approved Catalogue
-pending catalogue   Pending Catalogue   Pending Catalogue
-rejected catalogue  Rejected Catalogue  Rejected Catalogue
-==================  ==================  ==================
+.. table::
+   :class: datatable
+
+   ==================  ==================  ==================  ==========
+   Name                Description         ID                  ParentID
+   ==================  ==================  ==================  ==========
+   Approved Catalogue  Approved Catalogue  approved catalogue
+   Pending Catalogue   Pending Catalogue   pending catalogue
+   Rejected Catalogue  Rejected Catalogue  rejected catalogue
+   ==================  ==================  ==================  ==========

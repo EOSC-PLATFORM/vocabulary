@@ -1,9 +1,12 @@
 .. _semantic_relationship:
 
-SEMANTIC RELATIONSHIP
+Semantic relationship
 =====================
 
-====  ======  =============
-ID    Name    Description
-====  ======  =============
-====  ======  =============
+.. table::
+   :class: datatable
+
+   ======  =============  ====  ==========
+   Name    Description    ID    ParentID
+   ======  =============  ====  ==========
+   ======  =============  ====  ==========

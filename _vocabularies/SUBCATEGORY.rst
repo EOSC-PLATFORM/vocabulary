@@ -1,188 +1,191 @@
 .. _subcategory:
 
-SUBCATEGORY
+Subcategory
 ===========
 
-========================================================================================================  ==================================  =============
-ID                                                                                                        Name                                Description
-========================================================================================================  ==================================  =============
-subcategory-access_physical_and_eInfrastructures-compute-container_management                             Container Management
-subcategory-access_physical_and_eInfrastructures-compute-job_execution                                    Job Execution
-subcategory-access_physical_and_eInfrastructures-compute-orchestration                                    Orchestration
-subcategory-access_physical_and_eInfrastructures-compute-other                                            Other
-subcategory-access_physical_and_eInfrastructures-compute-serverless_applications_repository               Serverless Applications Repository
-subcategory-access_physical_and_eInfrastructures-compute-virtual_machine_management                       Virtual Machine Management
-subcategory-access_physical_and_eInfrastructures-compute-workload_management                              Workload Management
-subcategory-access_physical_and_eInfrastructures-data_storage-archive                                     Archive
-subcategory-access_physical_and_eInfrastructures-data_storage-backup                                      Backup
-subcategory-access_physical_and_eInfrastructures-data_storage-data                                        Data
-subcategory-access_physical_and_eInfrastructures-data_storage-digital_preservation                        Digital Preservation
-subcategory-access_physical_and_eInfrastructures-data_storage-disk                                        Disk
-subcategory-access_physical_and_eInfrastructures-data_storage-file                                        File
-subcategory-access_physical_and_eInfrastructures-data_storage-online                                      Online
-subcategory-access_physical_and_eInfrastructures-data_storage-other                                       Other
-subcategory-access_physical_and_eInfrastructures-data_storage-queue                                       Queue
-subcategory-access_physical_and_eInfrastructures-data_storage-recovery                                    Recovery
-subcategory-access_physical_and_eInfrastructures-data_storage-replicated                                  Replicated
-subcategory-access_physical_and_eInfrastructures-data_storage-synchronised                                Synchronised
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-chromatographer                 Chromatographer
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-cytometer                       Cytometer
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-digitisation_equipment          Digitisation Equipment
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-geophysical                     Geophysical
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-laser                           Laser
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-microscopy                      Microscopy
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-monument_maintenance_equipment  Monument Maintenance Equipment
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-other                           Other
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-radiation                       Radiation
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-spectrometer                    Spectrometer
-subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-spectrophotometer               Spectrophotometer
-subcategory-access_physical_and_eInfrastructures-material_storage-archiving                               Archiving
-subcategory-access_physical_and_eInfrastructures-material_storage-assembly                                Assembly
-subcategory-access_physical_and_eInfrastructures-material_storage-disposal                                Disposal
-subcategory-access_physical_and_eInfrastructures-material_storage-fulfilment                              Fulfilment
-subcategory-access_physical_and_eInfrastructures-material_storage-other                                   Other
-subcategory-access_physical_and_eInfrastructures-material_storage-packaging                               Packaging
-subcategory-access_physical_and_eInfrastructures-material_storage-preservation                            Preservation
-subcategory-access_physical_and_eInfrastructures-material_storage-quality_inspecting                      Quality Inspecting
-subcategory-access_physical_and_eInfrastructures-material_storage-repository                              Repository
-subcategory-access_physical_and_eInfrastructures-material_storage-reworking                               Reworking
-subcategory-access_physical_and_eInfrastructures-material_storage-sorting                                 Sorting
-subcategory-access_physical_and_eInfrastructures-material_storage-warehousing                             Warehousing
-subcategory-access_physical_and_eInfrastructures-network-content_delivery_network                         Content Delivery Network
-subcategory-access_physical_and_eInfrastructures-network-direct_connect                                   Direct Connect
-subcategory-access_physical_and_eInfrastructures-network-dns                                              DNS
-subcategory-access_physical_and_eInfrastructures-network-exchange                                         Exchange
-subcategory-access_physical_and_eInfrastructures-network-load_balancer                                    Load Balancer
-subcategory-access_physical_and_eInfrastructures-network-other                                            Other
-subcategory-access_physical_and_eInfrastructures-network-traffic_manager                                  Traffic Manager
-subcategory-access_physical_and_eInfrastructures-network-virtual_nework                                   Virtual Network
-subcategory-access_physical_and_eInfrastructures-network-vpn_gateway                                      VPN Gateway
-subcategory-aggregators_and_integrators-aggregators_and_integrators-applications                          Applications
-subcategory-aggregators_and_integrators-aggregators_and_integrators-data                                  Data
-subcategory-aggregators_and_integrators-aggregators_and_integrators-other                                 Other
-subcategory-aggregators_and_integrators-aggregators_and_integrators-services                              Services
-subcategory-aggregators_and_integrators-aggregators_and_integrators-software                              Software
-subcategory-other-other-other                                                                             Other
-subcategory-processing_and_analysis-data_analysis-2d_3d_digitisation                                      2D/3D Digitisation
-subcategory-processing_and_analysis-data_analysis-artificial_intelligence                                 Artificial Intelligence
-subcategory-processing_and_analysis-data_analysis-data_extrapolation                                      Data Extrapolation
-subcategory-processing_and_analysis-data_analysis-forecast                                                Forecast
-subcategory-processing_and_analysis-data_analysis-image_data_analysis                                     Image/Data Analysis
-subcategory-processing_and_analysis-data_analysis-machine_learning                                        Machine Learning
-subcategory-processing_and_analysis-data_analysis-other                                                   Other
-subcategory-processing_and_analysis-data_analysis-quality_assesment                                       Quality Assesment
-subcategory-processing_and_analysis-data_analysis-visualization                                           Visualization
-subcategory-processing_and_analysis-data_analysis-workflows                                               Workflows
-subcategory-processing_and_analysis-data_management-access                                                Access
-subcategory-processing_and_analysis-data_management-annotation                                            Annotation
-subcategory-processing_and_analysis-data_management-anonymisation                                         Anonymisation
-subcategory-processing_and_analysis-data_management-brokering                                             Brokering
-subcategory-processing_and_analysis-data_management-digitisation                                          Digitisation
-subcategory-processing_and_analysis-data_management-discovery                                             Discovery
-subcategory-processing_and_analysis-data_management-embargo                                               Embargo
-subcategory-processing_and_analysis-data_management-interlinking                                          Interlinking
-subcategory-processing_and_analysis-data_management-maintenance                                           Maintenance
-subcategory-processing_and_analysis-data_management-mining                                                Mining
-subcategory-processing_and_analysis-data_management-other                                                 Other
-subcategory-processing_and_analysis-data_management-persistent_identifier                                 Persistent Identifier
-subcategory-processing_and_analysis-data_management-preservation                                          Preservation
-subcategory-processing_and_analysis-data_management-publishing                                            Publishing
-subcategory-processing_and_analysis-data_management-registration                                          Registration
-subcategory-processing_and_analysis-data_management-transfer                                              Transfer
-subcategory-processing_and_analysis-data_management-validation                                            Validation
-subcategory-processing_and_analysis-measurement_and_materials_analysis-analysis                           Analysis
-subcategory-processing_and_analysis-measurement_and_materials_analysis-characterisation                   Characterisation
-subcategory-processing_and_analysis-measurement_and_materials_analysis-maintenance_and_modification       Maintenance & Modification
-subcategory-processing_and_analysis-measurement_and_materials_analysis-other                              Other
-subcategory-processing_and_analysis-measurement_and_materials_analysis-production                         Production
-subcategory-processing_and_analysis-measurement_and_materials_analysis-testing_and_validation             TEsting & Validation
-subcategory-processing_and_analysis-measurement_and_materials_analysis-validation                         Validation
-subcategory-processing_and_analysis-measurement_and_materials_analysis-workflows                          Workflows
-subcategory-security_and_operations-operations_and_infrastructure_management_services-accounting          Accounting
-subcategory-security_and_operations-operations_and_infrastructure_management_services-analysis            Analysis
-subcategory-security_and_operations-operations_and_infrastructure_management_services-billing             Billing
-subcategory-security_and_operations-operations_and_infrastructure_management_services-configuration       Configuration
-subcategory-security_and_operations-operations_and_infrastructure_management_services-coordination        Coordination
-subcategory-security_and_operations-operations_and_infrastructure_management_services-helpdesk            Helpdesk
-subcategory-security_and_operations-operations_and_infrastructure_management_services-monitoring          Monitoring
-subcategory-security_and_operations-operations_and_infrastructure_management_services-order_management    Order Management
-subcategory-security_and_operations-operations_and_infrastructure_management_services-other               Other
-subcategory-security_and_operations-operations_and_infrastructure_management_services-transportation      Transportation
-subcategory-security_and_operations-operations_and_infrastructure_management_services-utilities           Utilities
-subcategory-security_and_operations-security_and_identity-certification_authority                         Certification Authority
-subcategory-security_and_operations-security_and_identity-coordination                                    Coordination
-subcategory-security_and_operations-security_and_identity-firewall                                        Firewall
-subcategory-security_and_operations-security_and_identity-group_management                                Group Management
-subcategory-security_and_operations-security_and_identity-identity_and_access_management                  Identity & Access Management
-subcategory-security_and_operations-security_and_identity-other                                           Other
-subcategory-security_and_operations-security_and_identity-single_sign_on                                  Single Sign-On
-subcategory-security_and_operations-security_and_identity-threat_protection                               Threat Protection
-subcategory-security_and_operations-security_and_identity-tools                                           Tools
-subcategory-security_and_operations-security_and_identity-user_authentication                             User Authentication
-subcategory-sharing_and_discovery-applications-applications_repository                                    Applications Repository
-subcategory-sharing_and_discovery-applications-business                                                   Business
-subcategory-sharing_and_discovery-applications-collaboration                                              Collaboration
-subcategory-sharing_and_discovery-applications-communication                                              Communication
-subcategory-sharing_and_discovery-applications-education                                                  Education
-subcategory-sharing_and_discovery-applications-other                                                      Other
-subcategory-sharing_and_discovery-applications-productivity                                               Productivity
-subcategory-sharing_and_discovery-applications-social_networking                                          Social/Networking
-subcategory-sharing_and_discovery-applications-utilities                                                  Utilities
-subcategory-sharing_and_discovery-data-clinical_trial_data                                                Clinical Trial Data
-subcategory-sharing_and_discovery-data-data_archives                                                      Data Archives
-subcategory-sharing_and_discovery-data-epidemiological_data                                               Epidemiological Data
-subcategory-sharing_and_discovery-data-government_and_agency_data                                         Government & Agency Data
-subcategory-sharing_and_discovery-data-metadata                                                           Metadata
-subcategory-sharing_and_discovery-data-online_service_data                                                Online Service Data
-subcategory-sharing_and_discovery-data-other                                                              Other
-subcategory-sharing_and_discovery-data-scientific_research_data                                           Scientific/Research Data
-subcategory-sharing_and_discovery-data-statistical_data                                                   Statistical Data
-subcategory-sharing_and_discovery-development_resources-apis_repository_gateway                           APIs Repository/Gateway
-subcategory-sharing_and_discovery-development_resources-developer_tools                                   Developer Tools
-subcategory-sharing_and_discovery-development_resources-other                                             Other
-subcategory-sharing_and_discovery-development_resources-simulation_tools                                  Simulation Tools
-subcategory-sharing_and_discovery-development_resources-software_development_kits                         Software Development Kits
-subcategory-sharing_and_discovery-development_resources-software_libraries                                Software Libraries
-subcategory-sharing_and_discovery-samples-biological_samples                                              Biological Samples
-subcategory-sharing_and_discovery-samples-characterisation                                                Characterisation
-subcategory-sharing_and_discovery-samples-chemical_compounds_library                                      Chemical Compounds Library
-subcategory-sharing_and_discovery-samples-other                                                           Other
-subcategory-sharing_and_discovery-samples-preparation                                                     Preparation
-subcategory-sharing_and_discovery-scholarly_communication-analysis                                        Analysis
-subcategory-sharing_and_discovery-scholarly_communication-assessment                                      Assessment
-subcategory-sharing_and_discovery-scholarly_communication-discovery                                       Discovery
-subcategory-sharing_and_discovery-scholarly_communication-other                                           Other
-subcategory-sharing_and_discovery-scholarly_communication-outreach                                        Outreach
-subcategory-sharing_and_discovery-scholarly_communication-preparation                                     Preparation
-subcategory-sharing_and_discovery-scholarly_communication-publication                                     Publication
-subcategory-sharing_and_discovery-scholarly_communication-writing                                         Writing
-subcategory-sharing_and_discovery-software-libraries                                                      Libraries
-subcategory-sharing_and_discovery-software-other                                                          Other
-subcategory-sharing_and_discovery-software-platform                                                       Platform
-subcategory-sharing_and_discovery-software-software_package                                               Software Package
-subcategory-sharing_and_discovery-software-software_repository                                            Software Repository
-subcategory-training_and_support-consultancy_and_support-application_optimisation                         Application Optimisation
-subcategory-training_and_support-consultancy_and_support-application_porting                              Application_Porting
-subcategory-training_and_support-consultancy_and_support-application_scaling                              Application Scaling
-subcategory-training_and_support-consultancy_and_support-audit_and_assessment                             Audit & Assessment
-subcategory-training_and_support-consultancy_and_support-benchmarking                                     Benchmarking
-subcategory-training_and_support-consultancy_and_support-calibration                                      Calibration
-subcategory-training_and_support-consultancy_and_support-certification                                    Certification
-subcategory-training_and_support-consultancy_and_support-consulting                                       Consulting
-subcategory-training_and_support-consultancy_and_support-methodology_development                          Methodology Development
-subcategory-training_and_support-consultancy_and_support-modeling_and_simulation                          Modeling & Simulation
-subcategory-training_and_support-consultancy_and_support-other                                            Other
-subcategory-training_and_support-consultancy_and_support-prototype_development                            Prototype Development
-subcategory-training_and_support-consultancy_and_support-software_development                             Software Development
-subcategory-training_and_support-consultancy_and_support-software_improvement                             Software Improvement
-subcategory-training_and_support-consultancy_and_support-technology_transfer                              Technology Transfer
-subcategory-training_and_support-consultancy_and_support-testing                                          Testing
-subcategory-training_and_support-education_and_training-in_house_courses                                  In-House Courses
-subcategory-training_and_support-education_and_training-online_courses                                    Online Courses
-subcategory-training_and_support-education_and_training-open_registration_courses                         Open Registration Courses
-subcategory-training_and_support-education_and_training-other                                             Other
-subcategory-training_and_support-education_and_training-related_training                                  Related Training
-subcategory-training_and_support-education_and_training-required_training                                 Required Training
-subcategory-training_and_support-education_and_training-training_platform                                 Training Platform
-subcategory-training_and_support-education_and_training-training_tool                                     Training Tool
-========================================================================================================  ==================================  =============
+.. table::
+   :class: datatable
+
+   ==================================  =============  ========================================================================================================  ==================================================================================
+   Name                                Description    ID                                                                                                        ParentID
+   ==================================  =============  ========================================================================================================  ==================================================================================
+   Container Management                               subcategory-access_physical_and_eInfrastructures-compute-container_management                             category-access_physical_and_eInfrastructures-compute
+   Job Execution                                      subcategory-access_physical_and_eInfrastructures-compute-job_execution                                    category-access_physical_and_eInfrastructures-compute
+   Orchestration                                      subcategory-access_physical_and_eInfrastructures-compute-orchestration                                    category-access_physical_and_eInfrastructures-compute
+   Other                                              subcategory-access_physical_and_eInfrastructures-compute-other                                            category-access_physical_and_eInfrastructures-compute
+   Serverless Applications Repository                 subcategory-access_physical_and_eInfrastructures-compute-serverless_applications_repository               category-access_physical_and_eInfrastructures-compute
+   Virtual Machine Management                         subcategory-access_physical_and_eInfrastructures-compute-virtual_machine_management                       category-access_physical_and_eInfrastructures-compute
+   Workload Management                                subcategory-access_physical_and_eInfrastructures-compute-workload_management                              category-access_physical_and_eInfrastructures-compute
+   Archive                                            subcategory-access_physical_and_eInfrastructures-data_storage-archive                                     category-access_physical_and_eInfrastructures-data_storage
+   Backup                                             subcategory-access_physical_and_eInfrastructures-data_storage-backup                                      category-access_physical_and_eInfrastructures-data_storage
+   Data                                               subcategory-access_physical_and_eInfrastructures-data_storage-data                                        category-access_physical_and_eInfrastructures-data_storage
+   Digital Preservation                               subcategory-access_physical_and_eInfrastructures-data_storage-digital_preservation                        category-access_physical_and_eInfrastructures-data_storage
+   Disk                                               subcategory-access_physical_and_eInfrastructures-data_storage-disk                                        category-access_physical_and_eInfrastructures-data_storage
+   File                                               subcategory-access_physical_and_eInfrastructures-data_storage-file                                        category-access_physical_and_eInfrastructures-data_storage
+   Online                                             subcategory-access_physical_and_eInfrastructures-data_storage-online                                      category-access_physical_and_eInfrastructures-data_storage
+   Other                                              subcategory-access_physical_and_eInfrastructures-data_storage-other                                       category-access_physical_and_eInfrastructures-data_storage
+   Queue                                              subcategory-access_physical_and_eInfrastructures-data_storage-queue                                       category-access_physical_and_eInfrastructures-data_storage
+   Recovery                                           subcategory-access_physical_and_eInfrastructures-data_storage-recovery                                    category-access_physical_and_eInfrastructures-data_storage
+   Replicated                                         subcategory-access_physical_and_eInfrastructures-data_storage-replicated                                  category-access_physical_and_eInfrastructures-data_storage
+   Synchronised                                       subcategory-access_physical_and_eInfrastructures-data_storage-synchronised                                category-access_physical_and_eInfrastructures-data_storage
+   Chromatographer                                    subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-chromatographer                 category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Cytometer                                          subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-cytometer                       category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Digitisation Equipment                             subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-digitisation_equipment          category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Geophysical                                        subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-geophysical                     category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Laser                                              subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-laser                           category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Microscopy                                         subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-microscopy                      category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Monument Maintenance Equipment                     subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-monument_maintenance_equipment  category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Other                                              subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-other                           category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Radiation                                          subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-radiation                       category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Spectrometer                                       subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-spectrometer                    category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Spectrophotometer                                  subcategory-access_physical_and_eInfrastructures-instrument_and_equipment-spectrophotometer               category-access_physical_and_eInfrastructures-instrument_and_equipment
+   Archiving                                          subcategory-access_physical_and_eInfrastructures-material_storage-archiving                               category-access_physical_and_eInfrastructures-material_storage
+   Assembly                                           subcategory-access_physical_and_eInfrastructures-material_storage-assembly                                category-access_physical_and_eInfrastructures-material_storage
+   Disposal                                           subcategory-access_physical_and_eInfrastructures-material_storage-disposal                                category-access_physical_and_eInfrastructures-material_storage
+   Fulfilment                                         subcategory-access_physical_and_eInfrastructures-material_storage-fulfilment                              category-access_physical_and_eInfrastructures-material_storage
+   Other                                              subcategory-access_physical_and_eInfrastructures-material_storage-other                                   category-access_physical_and_eInfrastructures-material_storage
+   Packaging                                          subcategory-access_physical_and_eInfrastructures-material_storage-packaging                               category-access_physical_and_eInfrastructures-material_storage
+   Preservation                                       subcategory-access_physical_and_eInfrastructures-material_storage-preservation                            category-access_physical_and_eInfrastructures-material_storage
+   Quality Inspecting                                 subcategory-access_physical_and_eInfrastructures-material_storage-quality_inspecting                      category-access_physical_and_eInfrastructures-material_storage
+   Repository                                         subcategory-access_physical_and_eInfrastructures-material_storage-repository                              category-access_physical_and_eInfrastructures-material_storage
+   Reworking                                          subcategory-access_physical_and_eInfrastructures-material_storage-reworking                               category-access_physical_and_eInfrastructures-material_storage
+   Sorting                                            subcategory-access_physical_and_eInfrastructures-material_storage-sorting                                 category-access_physical_and_eInfrastructures-material_storage
+   Warehousing                                        subcategory-access_physical_and_eInfrastructures-material_storage-warehousing                             category-access_physical_and_eInfrastructures-material_storage
+   Content Delivery Network                           subcategory-access_physical_and_eInfrastructures-network-content_delivery_network                         category-access_physical_and_eInfrastructures-network
+   Direct Connect                                     subcategory-access_physical_and_eInfrastructures-network-direct_connect                                   category-access_physical_and_eInfrastructures-network
+   DNS                                                subcategory-access_physical_and_eInfrastructures-network-dns                                              category-access_physical_and_eInfrastructures-network
+   Exchange                                           subcategory-access_physical_and_eInfrastructures-network-exchange                                         category-access_physical_and_eInfrastructures-network
+   Load Balancer                                      subcategory-access_physical_and_eInfrastructures-network-load_balancer                                    category-access_physical_and_eInfrastructures-network
+   Other                                              subcategory-access_physical_and_eInfrastructures-network-other                                            category-access_physical_and_eInfrastructures-network
+   Traffic Manager                                    subcategory-access_physical_and_eInfrastructures-network-traffic_manager                                  category-access_physical_and_eInfrastructures-network
+   Virtual Network                                    subcategory-access_physical_and_eInfrastructures-network-virtual_nework                                   category-access_physical_and_eInfrastructures-network
+   VPN Gateway                                        subcategory-access_physical_and_eInfrastructures-network-vpn_gateway                                      category-access_physical_and_eInfrastructures-network
+   Applications                                       subcategory-aggregators_and_integrators-aggregators_and_integrators-applications                          category-aggregators_and_integrators-aggregators_and_integrators
+   Data                                               subcategory-aggregators_and_integrators-aggregators_and_integrators-data                                  category-aggregators_and_integrators-aggregators_and_integrators
+   Other                                              subcategory-aggregators_and_integrators-aggregators_and_integrators-other                                 category-aggregators_and_integrators-aggregators_and_integrators
+   Services                                           subcategory-aggregators_and_integrators-aggregators_and_integrators-services                              category-aggregators_and_integrators-aggregators_and_integrators
+   Software                                           subcategory-aggregators_and_integrators-aggregators_and_integrators-software                              category-aggregators_and_integrators-aggregators_and_integrators
+   Other                                              subcategory-other-other-other                                                                             category-other-other
+   2D/3D Digitisation                                 subcategory-processing_and_analysis-data_analysis-2d_3d_digitisation                                      category-processing_and_analysis-data_analysis
+   Artificial Intelligence                            subcategory-processing_and_analysis-data_analysis-artificial_intelligence                                 category-processing_and_analysis-data_analysis
+   Data Extrapolation                                 subcategory-processing_and_analysis-data_analysis-data_extrapolation                                      category-processing_and_analysis-data_analysis
+   Forecast                                           subcategory-processing_and_analysis-data_analysis-forecast                                                category-processing_and_analysis-data_analysis
+   Image/Data Analysis                                subcategory-processing_and_analysis-data_analysis-image_data_analysis                                     category-processing_and_analysis-data_analysis
+   Machine Learning                                   subcategory-processing_and_analysis-data_analysis-machine_learning                                        category-processing_and_analysis-data_analysis
+   Other                                              subcategory-processing_and_analysis-data_analysis-other                                                   category-processing_and_analysis-data_analysis
+   Quality Assesment                                  subcategory-processing_and_analysis-data_analysis-quality_assesment                                       category-processing_and_analysis-data_analysis
+   Visualization                                      subcategory-processing_and_analysis-data_analysis-visualization                                           category-processing_and_analysis-data_analysis
+   Workflows                                          subcategory-processing_and_analysis-data_analysis-workflows                                               category-processing_and_analysis-data_analysis
+   Access                                             subcategory-processing_and_analysis-data_management-access                                                category-processing_and_analysis-data_management
+   Annotation                                         subcategory-processing_and_analysis-data_management-annotation                                            category-processing_and_analysis-data_management
+   Anonymisation                                      subcategory-processing_and_analysis-data_management-anonymisation                                         category-processing_and_analysis-data_management
+   Brokering                                          subcategory-processing_and_analysis-data_management-brokering                                             category-processing_and_analysis-data_management
+   Digitisation                                       subcategory-processing_and_analysis-data_management-digitisation                                          category-processing_and_analysis-data_management
+   Discovery                                          subcategory-processing_and_analysis-data_management-discovery                                             category-processing_and_analysis-data_management
+   Embargo                                            subcategory-processing_and_analysis-data_management-embargo                                               category-processing_and_analysis-data_management
+   Interlinking                                       subcategory-processing_and_analysis-data_management-interlinking                                          category-processing_and_analysis-data_management
+   Maintenance                                        subcategory-processing_and_analysis-data_management-maintenance                                           category-processing_and_analysis-data_management
+   Mining                                             subcategory-processing_and_analysis-data_management-mining                                                category-processing_and_analysis-data_management
+   Other                                              subcategory-processing_and_analysis-data_management-other                                                 category-processing_and_analysis-data_management
+   Persistent Identifier                              subcategory-processing_and_analysis-data_management-persistent_identifier                                 category-processing_and_analysis-data_management
+   Preservation                                       subcategory-processing_and_analysis-data_management-preservation                                          category-processing_and_analysis-data_management
+   Publishing                                         subcategory-processing_and_analysis-data_management-publishing                                            category-processing_and_analysis-data_management
+   Registration                                       subcategory-processing_and_analysis-data_management-registration                                          category-processing_and_analysis-data_management
+   Transfer                                           subcategory-processing_and_analysis-data_management-transfer                                              category-processing_and_analysis-data_management
+   Validation                                         subcategory-processing_and_analysis-data_management-validation                                            category-processing_and_analysis-data_management
+   Analysis                                           subcategory-processing_and_analysis-measurement_and_materials_analysis-analysis                           category-processing_and_analysis-measurement_and_materials_analysis
+   Characterisation                                   subcategory-processing_and_analysis-measurement_and_materials_analysis-characterisation                   category-processing_and_analysis-measurement_and_materials_analysis
+   Maintenance & Modification                         subcategory-processing_and_analysis-measurement_and_materials_analysis-maintenance_and_modification       category-processing_and_analysis-measurement_and_materials_analysis
+   Other                                              subcategory-processing_and_analysis-measurement_and_materials_analysis-other                              category-processing_and_analysis-measurement_and_materials_analysis
+   Production                                         subcategory-processing_and_analysis-measurement_and_materials_analysis-production                         category-processing_and_analysis-measurement_and_materials_analysis
+   TEsting & Validation                               subcategory-processing_and_analysis-measurement_and_materials_analysis-testing_and_validation             category-processing_and_analysis-measurement_and_materials_analysis
+   Validation                                         subcategory-processing_and_analysis-measurement_and_materials_analysis-validation                         category-processing_and_analysis-measurement_and_materials_analysis
+   Workflows                                          subcategory-processing_and_analysis-measurement_and_materials_analysis-workflows                          category-processing_and_analysis-measurement_and_materials_analysis
+   Accounting                                         subcategory-security_and_operations-operations_and_infrastructure_management_services-accounting          category-security_and_operations-operations_and_infrastructure_management_services
+   Analysis                                           subcategory-security_and_operations-operations_and_infrastructure_management_services-analysis            category-security_and_operations-operations_and_infrastructure_management_services
+   Billing                                            subcategory-security_and_operations-operations_and_infrastructure_management_services-billing             category-security_and_operations-operations_and_infrastructure_management_services
+   Configuration                                      subcategory-security_and_operations-operations_and_infrastructure_management_services-configuration       category-security_and_operations-operations_and_infrastructure_management_services
+   Coordination                                       subcategory-security_and_operations-operations_and_infrastructure_management_services-coordination        category-security_and_operations-operations_and_infrastructure_management_services
+   Helpdesk                                           subcategory-security_and_operations-operations_and_infrastructure_management_services-helpdesk            category-security_and_operations-operations_and_infrastructure_management_services
+   Monitoring                                         subcategory-security_and_operations-operations_and_infrastructure_management_services-monitoring          category-security_and_operations-operations_and_infrastructure_management_services
+   Order Management                                   subcategory-security_and_operations-operations_and_infrastructure_management_services-order_management    category-security_and_operations-operations_and_infrastructure_management_services
+   Other                                              subcategory-security_and_operations-operations_and_infrastructure_management_services-other               category-security_and_operations-operations_and_infrastructure_management_services
+   Transportation                                     subcategory-security_and_operations-operations_and_infrastructure_management_services-transportation      category-security_and_operations-operations_and_infrastructure_management_services
+   Utilities                                          subcategory-security_and_operations-operations_and_infrastructure_management_services-utilities           category-security_and_operations-operations_and_infrastructure_management_services
+   Certification Authority                            subcategory-security_and_operations-security_and_identity-certification_authority                         category-security_and_operations-security_and_identity
+   Coordination                                       subcategory-security_and_operations-security_and_identity-coordination                                    category-security_and_operations-security_and_identity
+   Firewall                                           subcategory-security_and_operations-security_and_identity-firewall                                        category-security_and_operations-security_and_identity
+   Group Management                                   subcategory-security_and_operations-security_and_identity-group_management                                category-security_and_operations-security_and_identity
+   Identity & Access Management                       subcategory-security_and_operations-security_and_identity-identity_and_access_management                  category-security_and_operations-security_and_identity
+   Other                                              subcategory-security_and_operations-security_and_identity-other                                           category-security_and_operations-security_and_identity
+   Single Sign-On                                     subcategory-security_and_operations-security_and_identity-single_sign_on                                  category-security_and_operations-security_and_identity
+   Threat Protection                                  subcategory-security_and_operations-security_and_identity-threat_protection                               category-security_and_operations-security_and_identity
+   Tools                                              subcategory-security_and_operations-security_and_identity-tools                                           category-security_and_operations-security_and_identity
+   User Authentication                                subcategory-security_and_operations-security_and_identity-user_authentication                             category-security_and_operations-security_and_identity
+   Applications Repository                            subcategory-sharing_and_discovery-applications-applications_repository                                    category-sharing_and_discovery-applications
+   Business                                           subcategory-sharing_and_discovery-applications-business                                                   category-sharing_and_discovery-applications
+   Collaboration                                      subcategory-sharing_and_discovery-applications-collaboration                                              category-sharing_and_discovery-applications
+   Communication                                      subcategory-sharing_and_discovery-applications-communication                                              category-sharing_and_discovery-applications
+   Education                                          subcategory-sharing_and_discovery-applications-education                                                  category-sharing_and_discovery-applications
+   Other                                              subcategory-sharing_and_discovery-applications-other                                                      category-sharing_and_discovery-applications
+   Productivity                                       subcategory-sharing_and_discovery-applications-productivity                                               category-sharing_and_discovery-applications
+   Social/Networking                                  subcategory-sharing_and_discovery-applications-social_networking                                          category-sharing_and_discovery-applications
+   Utilities                                          subcategory-sharing_and_discovery-applications-utilities                                                  category-sharing_and_discovery-applications
+   Clinical Trial Data                                subcategory-sharing_and_discovery-data-clinical_trial_data                                                category-sharing_and_discovery-data
+   Data Archives                                      subcategory-sharing_and_discovery-data-data_archives                                                      category-sharing_and_discovery-data
+   Epidemiological Data                               subcategory-sharing_and_discovery-data-epidemiological_data                                               category-sharing_and_discovery-data
+   Government & Agency Data                           subcategory-sharing_and_discovery-data-government_and_agency_data                                         category-sharing_and_discovery-data
+   Metadata                                           subcategory-sharing_and_discovery-data-metadata                                                           category-sharing_and_discovery-data
+   Online Service Data                                subcategory-sharing_and_discovery-data-online_service_data                                                category-sharing_and_discovery-data
+   Other                                              subcategory-sharing_and_discovery-data-other                                                              category-sharing_and_discovery-data
+   Scientific/Research Data                           subcategory-sharing_and_discovery-data-scientific_research_data                                           category-sharing_and_discovery-data
+   Statistical Data                                   subcategory-sharing_and_discovery-data-statistical_data                                                   category-sharing_and_discovery-data
+   APIs Repository/Gateway                            subcategory-sharing_and_discovery-development_resources-apis_repository_gateway                           category-sharing_and_discovery-development_resources
+   Developer Tools                                    subcategory-sharing_and_discovery-development_resources-developer_tools                                   category-sharing_and_discovery-development_resources
+   Other                                              subcategory-sharing_and_discovery-development_resources-other                                             category-sharing_and_discovery-development_resources
+   Simulation Tools                                   subcategory-sharing_and_discovery-development_resources-simulation_tools                                  category-sharing_and_discovery-development_resources
+   Software Development Kits                          subcategory-sharing_and_discovery-development_resources-software_development_kits                         category-sharing_and_discovery-development_resources
+   Software Libraries                                 subcategory-sharing_and_discovery-development_resources-software_libraries                                category-sharing_and_discovery-development_resources
+   Biological Samples                                 subcategory-sharing_and_discovery-samples-biological_samples                                              category-sharing_and_discovery-samples
+   Characterisation                                   subcategory-sharing_and_discovery-samples-characterisation                                                category-sharing_and_discovery-samples
+   Chemical Compounds Library                         subcategory-sharing_and_discovery-samples-chemical_compounds_library                                      category-sharing_and_discovery-samples
+   Other                                              subcategory-sharing_and_discovery-samples-other                                                           category-sharing_and_discovery-samples
+   Preparation                                        subcategory-sharing_and_discovery-samples-preparation                                                     category-sharing_and_discovery-samples
+   Analysis                                           subcategory-sharing_and_discovery-scholarly_communication-analysis                                        category-sharing_and_discovery-scholarly_communication
+   Assessment                                         subcategory-sharing_and_discovery-scholarly_communication-assessment                                      category-sharing_and_discovery-scholarly_communication
+   Discovery                                          subcategory-sharing_and_discovery-scholarly_communication-discovery                                       category-sharing_and_discovery-scholarly_communication
+   Other                                              subcategory-sharing_and_discovery-scholarly_communication-other                                           category-sharing_and_discovery-scholarly_communication
+   Outreach                                           subcategory-sharing_and_discovery-scholarly_communication-outreach                                        category-sharing_and_discovery-scholarly_communication
+   Preparation                                        subcategory-sharing_and_discovery-scholarly_communication-preparation                                     category-sharing_and_discovery-scholarly_communication
+   Publication                                        subcategory-sharing_and_discovery-scholarly_communication-publication                                     category-sharing_and_discovery-scholarly_communication
+   Writing                                            subcategory-sharing_and_discovery-scholarly_communication-writing                                         category-sharing_and_discovery-scholarly_communication
+   Libraries                                          subcategory-sharing_and_discovery-software-libraries                                                      category-sharing_and_discovery-software
+   Other                                              subcategory-sharing_and_discovery-software-other                                                          category-sharing_and_discovery-software
+   Platform                                           subcategory-sharing_and_discovery-software-platform                                                       category-sharing_and_discovery-software
+   Software Package                                   subcategory-sharing_and_discovery-software-software_package                                               category-sharing_and_discovery-software
+   Software Repository                                subcategory-sharing_and_discovery-software-software_repository                                            category-sharing_and_discovery-software
+   Application Optimisation                           subcategory-training_and_support-consultancy_and_support-application_optimisation                         category-training_and_support-consultancy_and_support
+   Application_Porting                                subcategory-training_and_support-consultancy_and_support-application_porting                              category-training_and_support-consultancy_and_support
+   Application Scaling                                subcategory-training_and_support-consultancy_and_support-application_scaling                              category-training_and_support-consultancy_and_support
+   Audit & Assessment                                 subcategory-training_and_support-consultancy_and_support-audit_and_assessment                             category-training_and_support-consultancy_and_support
+   Benchmarking                                       subcategory-training_and_support-consultancy_and_support-benchmarking                                     category-training_and_support-consultancy_and_support
+   Calibration                                        subcategory-training_and_support-consultancy_and_support-calibration                                      category-training_and_support-consultancy_and_support
+   Certification                                      subcategory-training_and_support-consultancy_and_support-certification                                    category-training_and_support-consultancy_and_support
+   Consulting                                         subcategory-training_and_support-consultancy_and_support-consulting                                       category-training_and_support-consultancy_and_support
+   Methodology Development                            subcategory-training_and_support-consultancy_and_support-methodology_development                          category-training_and_support-consultancy_and_support
+   Modeling & Simulation                              subcategory-training_and_support-consultancy_and_support-modeling_and_simulation                          category-training_and_support-consultancy_and_support
+   Other                                              subcategory-training_and_support-consultancy_and_support-other                                            category-training_and_support-consultancy_and_support
+   Prototype Development                              subcategory-training_and_support-consultancy_and_support-prototype_development                            category-training_and_support-consultancy_and_support
+   Software Development                               subcategory-training_and_support-consultancy_and_support-software_development                             category-training_and_support-consultancy_and_support
+   Software Improvement                               subcategory-training_and_support-consultancy_and_support-software_improvement                             category-training_and_support-consultancy_and_support
+   Technology Transfer                                subcategory-training_and_support-consultancy_and_support-technology_transfer                              category-training_and_support-consultancy_and_support
+   Testing                                            subcategory-training_and_support-consultancy_and_support-testing                                          category-training_and_support-consultancy_and_support
+   In-House Courses                                   subcategory-training_and_support-education_and_training-in_house_courses                                  category-training_and_support-education_and_training
+   Online Courses                                     subcategory-training_and_support-education_and_training-online_courses                                    category-training_and_support-education_and_training
+   Open Registration Courses                          subcategory-training_and_support-education_and_training-open_registration_courses                         category-training_and_support-education_and_training
+   Other                                              subcategory-training_and_support-education_and_training-other                                             category-training_and_support-education_and_training
+   Related Training                                   subcategory-training_and_support-education_and_training-related_training                                  category-training_and_support-education_and_training
+   Required Training                                  subcategory-training_and_support-education_and_training-required_training                                 category-training_and_support-education_and_training
+   Training Platform                                  subcategory-training_and_support-education_and_training-training_platform                                 category-training_and_support-education_and_training
+   Training Tool                                      subcategory-training_and_support-education_and_training-training_tool                                     category-training_and_support-education_and_training
+   ==================================  =============  ========================================================================================================  ==================================================================================

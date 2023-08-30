@@ -1,17 +1,20 @@
 .. _ds_persistent_identity_scheme:
 
-DS PERSISTENT IDENTITY SCHEME
+Ds persistent identity scheme
 =============================
 
-====================================  ======  =============
-ID                                    Name    Description
-====================================  ======  =============
-ds_persistent_identity_scheme-ark     ARK
-ds_persistent_identity_scheme-arxiv   ArXiv
-ds_persistent_identity_scheme-doi     DOI
-ds_persistent_identity_scheme-handle  Handle
-ds_persistent_identity_scheme-isni    ISNI
-ds_persistent_identity_scheme-orcid   ORCID
-ds_persistent_identity_scheme-pmcid   PMCID
-ds_persistent_identity_scheme-ror     RoR
-====================================  ======  =============
+.. table::
+   :class: datatable
+
+   ======  =============  ====================================  ==========
+   Name    Description    ID                                    ParentID
+   ======  =============  ====================================  ==========
+   ARK                    ds_persistent_identity_scheme-ark
+   ArXiv                  ds_persistent_identity_scheme-arxiv
+   DOI                    ds_persistent_identity_scheme-doi
+   Handle                 ds_persistent_identity_scheme-handle
+   ISNI                   ds_persistent_identity_scheme-isni
+   ORCID                  ds_persistent_identity_scheme-orcid
+   PMCID                  ds_persistent_identity_scheme-pmcid
+   RoR                    ds_persistent_identity_scheme-ror
+   ======  =============  ====================================  ==========

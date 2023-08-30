@@ -1,12 +1,15 @@
 .. _provider_state:
 
-PROVIDER STATE
+Provider state
 ==============
 
-=================  =================  =================
-ID                 Name               Description
-=================  =================  =================
-approved provider  Approved Provider  Approved Provider
-pending provider   Pending Provider   Pending Provider
-rejected provider  Rejected Provider  Rejected Provider
-=================  =================  =================
+.. table::
+   :class: datatable
+
+   =================  =================  =================  ==========
+   Name               Description        ID                 ParentID
+   =================  =================  =================  ==========
+   Approved Provider  Approved Provider  approved provider
+   Pending Provider   Pending Provider   pending provider
+   Rejected Provider  Rejected Provider  rejected provider
+   =================  =================  =================  ==========

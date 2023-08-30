@@ -1,17 +1,20 @@
 .. _ds_classification:
 
-DS CLASSIFICATION
+Ds classification
 =================
 
-================================================  ==============================  =============
-ID                                                Name                            Description
-================================================  ==============================  =============
-ds_classification-aggregators                     Aggregators
-ds_classification-catalogue_of_research_products  Catalogue of Research Products
-ds_classification-cris_system                     CRIS System
-ds_classification-journal_archive                 Journal Archive
-ds_classification-publisher_archive               Publisher Archive
-ds_classification-repository                      Repository
-ds_classification-research_entity_registry        Research Entity Registry
-ds_classification-scientific_database             Scientific Database
-================================================  ==============================  =============
+.. table::
+   :class: datatable
+
+   ==============================  =============  ================================================  ==========
+   Name                            Description    ID                                                ParentID
+   ==============================  =============  ================================================  ==========
+   Aggregators                                    ds_classification-aggregators
+   Catalogue of Research Products                 ds_classification-catalogue_of_research_products
+   CRIS System                                    ds_classification-cris_system
+   Journal Archive                                ds_classification-journal_archive
+   Publisher Archive                              ds_classification-publisher_archive
+   Repository                                     ds_classification-repository
+   Research Entity Registry                       ds_classification-research_entity_registry
+   Scientific Database                            ds_classification-scientific_database
+   ==============================  =============  ================================================  ==========

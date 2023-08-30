@@ -16,9 +16,9 @@ def getVocabularies(vocabularyTitle):
     response_API = requests.get('https://api.eosc-portal.eu/vocabulary/byType/' + vocabularyTitle)
     # print(response_API.status_code)
     data = response_API.json()
-    listOfVocabularies = [tuple(('ID', 'Name', 'Description'))]
+    listOfVocabularies = [tuple(( 'Name', 'Description', 'ID', 'ParentID'))]
     for jsonObject in data:
-        listOfVocabularies.append(tuple((jsonObject['id'],jsonObject['name'],jsonObject['description'])))
+        listOfVocabularies.append(tuple((jsonObject['name'],jsonObject['description'],jsonObject['id'],jsonObject['parentId'])))
 
    # print(listOfVocabularies)
     return listOfVocabularies
@@ -30,19 +30,23 @@ def writeVocabulariesToFiles():
         # create a empty text file
         fileName = vocabularyTitle + '.rst'
         completeName = path + fileName
+        fpr = open(completeName + '.raw', 'w', encoding="utf-8")
+        fpr.write(tabulate(listOfVocabularies, headers='firstrow', tablefmt='rst'))
+        fpr.close()
         fp = open(completeName, 'w', encoding="utf-8")
         fp.write(".. _"+vocabularyTitle.lower()+":\n\n")
-        fp.write(vocabularyTitle.upper().replace('_',' ')+"\n")
+        fp.write(vocabularyTitle.capitalize().replace('_',' ')+"\n")
         i = 0
         for i in range(0, len(vocabularyTitle)):
             fp.write("=")
         fp.write("\n\n")
-        fp.write(tabulate(listOfVocabularies, headers='firstrow', tablefmt='rst'))
+        fp.write(".. table::\n")
+        fp.write("   :class: datatable\n\n")
 
-#        fp.write(''.join(str(x) for x in listOfVocabularies))
-#        for line in listOfVocabularies:
-#            print(*line)
-#        fp.write(str(getVocabularies(vocabularyTitle)))
+        fpr = open(completeName + '.raw', 'r', encoding="utf-8")
+        for line in fpr:
+            fp.write('   ' + line)
+        fpr.close()
         fp.close()
 
 

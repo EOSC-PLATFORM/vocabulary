@@ -1,14 +1,17 @@
 .. _monitoring_monitored_by:
 
-MONITORING MONITORED BY
+Monitoring monitored by
 =======================
 
-=========================  ============  =============
-ID                         Name          Description
-=========================  ============  =============
-monitored_by-egi           EGI           EGI
-monitored_by-eosc          EOSC          EOSC
-monitored_by-eudat         EUDAT         EUDAT
-monitored_by-ni4os_europe  NI4OS-Europe  NI4OS-Europe
-monitored_by-other         Other         Other
-=========================  ============  =============
+.. table::
+   :class: datatable
+
+   ============  =============  =========================  ==========
+   Name          Description    ID                         ParentID
+   ============  =============  =========================  ==========
+   EGI           EGI            monitored_by-egi
+   EOSC          EOSC           monitored_by-eosc
+   EUDAT         EUDAT          monitored_by-eudat
+   NI4OS-Europe  NI4OS-Europe   monitored_by-ni4os_europe
+   Other         Other          monitored_by-other
+   ============  =============  =========================  ==========

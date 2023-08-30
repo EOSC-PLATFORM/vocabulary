@@ -1,12 +1,15 @@
 .. _resource_state:
 
-RESOURCE STATE
+Resource state
 ==============
 
-=================  =================  =================
-ID                 Name               Description
-=================  =================  =================
-approved resource  Approved Resource  Approved Resource
-pending resource   Pending Resource   Pending Resource
-rejected resource  Rejected Resource  Rejected Resource
-=================  =================  =================
+.. table::
+   :class: datatable
+
+   =================  =================  =================  ==========
+   Name               Description        ID                 ParentID
+   =================  =================  =================  ==========
+   Approved Resource  Approved Resource  approved resource
+   Pending Resource   Pending Resource   pending resource
+   Rejected Resource  Rejected Resource  rejected resource
+   =================  =================  =================  ==========
